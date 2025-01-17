@@ -1,0 +1,37 @@
+[package]
+name = "ml-rust-library"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# Numerical computation and data manipulation
+ndarray = "0.15"            # For multi-dimensional arrays
+ndarray-rand = "0.15"       # For random number generation with ndarray
+ndarray-npy = "0.9"         # To handle NumPy files for data interchange
+
+# Linear algebra
+nalgebra = "0.31"           # A general-purpose linear algebra library
+
+# Random number generation
+rand = "0.8"                # Random number generation
+
+# Plotting (optional, for data visualization)
+plotters = "0.3.1"          # For generating plots
+
+# Machine Learning Utilities
+linfa = "0.7.1"             # A toolkit for classical ML algorithms
+smartcore = "0.3.1"         # An alternative ML library
+
+# Optimization (e.g., gradient descent)
+argmin = "0.5"              # Optimization toolbox for numerical optimization
+
+# Parallelism (optional, for performance improvement)
+rayon = "1.7"               # Data parallelism library
+
+# Logging (optional, for debugging and monitoring)
+log = "0.4"                 # Logging library
+env_logger = "0.10"         # Environment-based logger configuration
+
+# Serialization (optional, for model saving and loading)
+serde = { version = "1.0", features = ["derive"] }  # Serialization framework
+serde_json = "1.0"          # JSON serialization and deserialization

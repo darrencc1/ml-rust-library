@@ -1,0 +1,11 @@
+/Users/darrenchambers/ml-rust-library/target/debug/deps/libapprox-f064b2b03bb6ca8d.rmeta: /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/lib.rs /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/abs_diff_eq.rs /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/relative_eq.rs /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/ulps_eq.rs /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/macros.rs
+
+/Users/darrenchambers/ml-rust-library/target/debug/deps/libapprox-f064b2b03bb6ca8d.rlib: /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/lib.rs /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/abs_diff_eq.rs /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/relative_eq.rs /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/ulps_eq.rs /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/macros.rs
+
+/Users/darrenchambers/ml-rust-library/target/debug/deps/approx-f064b2b03bb6ca8d.d: /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/lib.rs /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/abs_diff_eq.rs /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/relative_eq.rs /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/ulps_eq.rs /Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/macros.rs
+
+/Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/lib.rs:
+/Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/abs_diff_eq.rs:
+/Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/relative_eq.rs:
+/Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/ulps_eq.rs:
+/Users/darrenchambers/.cargo/registry/src/index.crates.io-6f17d22bba15001f/approx-0.4.0/src/macros.rs:
