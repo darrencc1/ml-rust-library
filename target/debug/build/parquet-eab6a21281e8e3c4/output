@@ -1,0 +1,2 @@
+cargo:rustc-env=PARQUET_VERSION=5.5.0
+cargo:rustc-env=PARQUET_CREATED_BY=parquet-rs version 5.5.0
