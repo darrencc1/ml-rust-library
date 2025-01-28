@@ -2,7 +2,7 @@ use csv::ReaderBuilder;
 // use serde::Deserializer;
 use std::error::Error;
 use serde::Deserialize;
-
+use std::collections::HashMap;
 
 use std::fs::File; //This is allows functionality with files. 
 
@@ -58,9 +58,11 @@ fn read_csv(file_path: &str) -> io::Result<()> {
 //****May need to generalize this using a HashMap for more dynamic row parsing for varying column structures.*****/
 //****This Struct will only work if the csv has 3 columns (Not very useful for machine learning. (Change to Dynamic Handling with HashMap!)) ****/
 struct DataRow {
-    id: usize,
-    value: f64,
-    label: String,
+    let mut map = HashMap::new();//Createsw and empty hash map
+    
+    // id: usize,
+    // value: f64,
+    // label: String,
 }
 
 
